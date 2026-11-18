@@ -1,0 +1,5 @@
+venv/ #prevents the virtual environment from being uploaded
+
+__pycache__/#Prevents temmporary python files from being uploaded
+*.pyc #prevents compiled python files from being uploaded
+.env #prevents private configuration files from being uploaded.
