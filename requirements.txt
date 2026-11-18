@@ -1,6 +1,6 @@
 
 streamlit #build web app
 pandas #manages data
-scitkit-learn #develop prediction models
+scikit-learn#develop prediction models
 plotly #displays the charts
 joblib
